@@ -8,7 +8,7 @@ function skillsMember() {
             },
             {
                 "name": "level",
-                "type": "int"
+                "type": "it"
             }
         ]
     }
